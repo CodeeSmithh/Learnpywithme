@@ -7,14 +7,13 @@
 </div>
 
 
-CR:
 <div align="center">
   <h1> Python Learning : Day 1 - Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/msnkishore1702/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
 
-
+CR:
   <sub>Author :
   <a href="https://www.linkedin.com/in/msnkishore1702/" target="_blank">Sohatej Naga Kishore</a><br>
   <small> First Edition : October, 2024</small>
