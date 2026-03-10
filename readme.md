@@ -14,11 +14,7 @@
   </a>
 
 
-  <sub>Author :
-  <a href="https://www.linkedin.com/in/msnkishore1702/" target="_blank">Sohatej Naga Kishore</a><br>
-  <small> First Edition : October, 2024</small>
-  </sub>
-</div>
+
 
 
 [Day 2 >>](./02_Day_Variables_Builtin_Functions/02_variables_builtin_functions.md)
