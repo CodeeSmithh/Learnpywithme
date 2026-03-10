@@ -3,10 +3,11 @@
 </div>
   
 <div align="center">
-  🧡🧡🧡 HAPPY CODING 🧡🧡🧡
+  ______HAPPY CODING--------
 </div>
 
 
+CR:
 <div align="center">
   <h1> Python Learning : Day 1 - Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/msnkishore1702/">
@@ -14,10 +15,14 @@
   </a>
 
 
+  <sub>Author :
+  <a href="https://www.linkedin.com/in/msnkishore1702/" target="_blank">Sohatej Naga Kishore</a><br>
+  <small> First Edition : October, 2024</small>
+  </sub>
+</div>
 
 
 
-[Day 2 >>](./02_Day_Variables_Builtin_Functions/02_variables_builtin_functions.md)
 
 ![Python_Tutorials](./Images/MaintopPython.jpeg)
 
